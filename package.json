@@ -5,7 +5,7 @@
   "scripts": {
     "imgopt": "imagemin assets/img/raw/* --out-dir=assets/img/opt"
   },
-  "author": "Ahmad Awais",
+  "author": "Ahmad Awais & Maedah Batool",
   "license": "MIT",
   "devDependencies": {
     "gulp": "^3.9.1",
