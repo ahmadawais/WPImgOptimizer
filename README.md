@@ -6,3 +6,7 @@ WordPress image optimization development workflow.
 - Install Node & NPM.
 - Install npm modules `sudo npm install`
 - Run `gulp imgopt`
+
+## Screenshot or Didn't Happen
+
+![img](https://i.imgur.com/gOer7kv.png)
