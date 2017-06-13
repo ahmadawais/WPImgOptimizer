@@ -34,18 +34,18 @@ npm -v
 # 4.2.0
 ```
 
-## → Step #2. Download [`package.json`](https://git.io/wpimgoptpkg) & [`gulpfile.js`](https://git.io/wpimgoptgf)
+## → Step #2. Download [`package.json`](https://git.io/wpimgoptpkg) & [`gulpfile.js`](https://git.io/wpimgoptgfjs)
 
-Download [`package.json`](https://git.io/wpimgoptpkg) & [`gulpfile.js`](https://git.io/wpimgoptgf) files inside the root folder of your WordPress plugin or WordPress theme
+Download [`package.json`](https://git.io/wpimgoptpkg) & [`gulpfile.js`](https://git.io/wpimgoptgfjs) files inside the root folder of your WordPress plugin or WordPress theme
 If you have cURL installed then you can run the following command to download it in one go (just make sure you open the root folder of your WordPress plugin or WordPress theme and download [`package.json`](https://git.io/vHLHg) file in it).
 
 ```bash
-curl -L 'https://git.io/wpimgoptpkg' -o package.json && curl -L 'https://git.io/wpimgoptgf' -o gulpfile.js
+curl -L 'https://git.io/wpimgoptpkg' -o package.json && curl -L 'https://git.io/wpimgoptgfjs' -o gulpfile.js
 ```
 
 ## → STEP #3: Installing Node Dependencies
 
-We are in the root folder of our WordPress plugin or WordPress theme at the moment, right where you downloaded the [`package.json`](https://git.io/wpimgoptpkg) & [`gulpfile.js`](https://git.io/wpimgoptgf) files — let's install the Node Dependencies. In the terminal run this command and wait for it to download all the NodeJS dependencies. It's a one time process and can take about a minute depending on the internet speed of your connection.
+We are in the root folder of our WordPress plugin or WordPress theme at the moment, right where you downloaded the [`package.json`](https://git.io/wpimgoptpkg) & [`gulpfile.js`](https://git.io/wpimgoptgfjs) files — let's install the Node Dependencies. In the terminal run this command and wait for it to download all the NodeJS dependencies. It's a one time process and can take about a minute depending on the internet speed of your connection.
 
 ```bash
 # For MAC OS X run the following command with super user
@@ -55,14 +55,14 @@ sudo npm install
 npm install
 ```
 
-## → STEP #4: Configure [`gulpfile.js`](https://git.io/wpimgoptgf)
+## → STEP #4: Configure [`gulpfile.js`](https://git.io/wpimgoptgfjs)
 
 Since this is an image optimization workflow. You need to configure paths to two directories. 
 
 1. Image source or raw images directory
 2. Image destination or optimized image directory
 
-These two can be configured by editing the [`gulpfile.js`](https://git.io/wpimgoptgf). Do NOT change the variable names, just the values and the types of images you want to optimize.
+These two can be configured by editing the [`gulpfile.js`](https://git.io/wpimgoptgfjs). Do NOT change the variable names, just the values and the types of images you want to optimize.
 
 ```js
 var imagesSRC         = './assets/img/raw/**/*.{png,PNG,jpg,JPG,jpeg,JPEG,gif,GIF,svg,SVG}'; // Source folder of images which should be optimized.
@@ -88,7 +88,7 @@ In default case, here's the structure
 
 ## → STEP #5: Run Image Optimization Task
 
-All that's left now is for you to run the image optimization task in the root folder of your WP project — where you downloaded the [`gulpfile.js`](https://git.io/wpimgoptgf) file.
+All that's left now is for you to run the image optimization task in the root folder of your WP project — where you downloaded the [`gulpfile.js`](https://git.io/wpimgoptgfjs) file.
 
 ```bash
 # Run Image Optimization Task.
