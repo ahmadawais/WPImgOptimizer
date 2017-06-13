@@ -1,15 +1,19 @@
 {
-  "name": "wpimgoptimizer",
-  "version": "1.0.0",
-  "description": "WordPress image optimization development workflow.",
-  "scripts": {
-    "imgopt": "imagemin assets/img/raw/* --out-dir=assets/img/opt"
-  },
-  "author": "Ahmad Awais & Maedah Batool",
-  "license": "MIT",
-  "devDependencies": {
-    "gulp": "^3.9.1",
-    "gulp-imagemin": "^3.3.0",
-    "gulp-notify": "^3.0.0"
-  }
+	"name": "wpimgoptimizer",
+	"version": "1.0.0",
+	"description": "Dev Workflow for WordPress image optimization.",
+	"license": "GPL-2.0",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/ahmadawais/WPImgOptimizer"
+	},
+	"scripts": {
+		"imgopt": "imagemin assets/img/raw/* --out-dir=assets/img/opt"
+	},
+	"author": "Ahmad Awais & Maedah Batool",
+	"devDependencies": {
+		"gulp": "^3.9.1",
+		"gulp-imagemin": "^3.3.0",
+		"gulp-notify": "^3.0.0"
+	}
 }
