@@ -110,7 +110,7 @@ Feel free to contribute. PR's are welcomed.
 - First version
 - Image optimization for PNG, JPG, JPEG, SVG
 
-## License
+## 🗞 License
 Released under GPL v2 License.
 Copyright [Ahmad Awais](https://AhmadAwais.com/).
 
