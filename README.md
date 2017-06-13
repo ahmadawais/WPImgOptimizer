@@ -100,10 +100,10 @@ gulp imgopt
 
 Yup, there are no more steps. Just share it with your friends. Or [Click to Tweet about it](https://twitter.com/home?status=%F0%9F%94%A5%20WPImgOpt%3A%20A%20%23Gulp%20Dev-Workflow%20automation%20by%20%40MrAhmadAwais%20%26%20%40MaedahBatool%20to%20optimize%20your%20%23WordPress%20images%20%E2%86%92%20ahmda.ws/WPImgOpt).
 
-## Contribute
+## ⚡️ Contribute
 Feel free to contribute. PR's are welcomed.
 
-## Changelog
+## 📣 Changelog
 
 ### Version 1.0.0 
 
@@ -112,7 +112,7 @@ Feel free to contribute. PR's are welcomed.
 
 ## License
 Released under GPL v2 License.
-Copyright [Ahmad Awais](https://AhmadAwais.com/)
+Copyright [Ahmad Awais](https://AhmadAwais.com/).
 
 ---
 
