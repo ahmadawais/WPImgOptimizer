@@ -19,8 +19,6 @@
 
 Dev Workflow for WordPress image optimization.
 
-![WPImgOptimizer](https://i.imgur.com/pu3z6cf.png)
-
 # 🎗 WP Image Optimizer — Getting Set up
 Let's get you setup for an automated dev-workflow for WordPress image optimization.
 
