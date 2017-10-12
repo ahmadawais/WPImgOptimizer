@@ -120,6 +120,7 @@ Copyright [Ahmad Awais](https://AhmadAwais.com/).
 
 ---
 
+
 		### 🙌 [WPCOUPLE PARTNERS](https://WPCouple.com/partners):
 		This open source project is maintained by the help of awesome businesses listed below. What? [Read more about it →](https://WPCouple.com/partners)
 
