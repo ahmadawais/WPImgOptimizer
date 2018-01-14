@@ -20,6 +20,8 @@
 Dev Workflow for WordPress image optimization.
 
 # 🎗 WP Image Optimizer — Getting Set up
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/ahmadawais/WPImgOptimizer.svg)](https://greenkeeper.io/)
 Let's get you setup for an automated dev-workflow for WordPress image optimization.
 
 ## → STEP #1: Install NodeJS & NPM
