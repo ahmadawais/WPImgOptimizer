@@ -13,7 +13,7 @@
 	"author": "Ahmad Awais & Maedah Batool",
 	"devDependencies": {
 		"gulp": "^3.9.1",
-		"gulp-imagemin": "^3.3.0",
+		"gulp-imagemin": "^4.1.0",
 		"gulp-notify": "^3.0.0"
 	}
 }
